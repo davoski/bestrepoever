@@ -1,3 +1,4 @@
 some sample content
 
-adding a third line
+Another third line in conflict
+
