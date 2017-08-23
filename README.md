@@ -9,3 +9,4 @@ Another third line in conflict
 
 fb5 - making a change
 fb5 - making a second change after pull request
+fb6 - trying to make a change after branch deleted on origin
