@@ -1,4 +1,8 @@
+<<<<<<< .merge_file_tX6b2j
 some sample content master change to first line
+=======
+some sample content making a change on line 1
+>>>>>>> .merge_file_pFpOxg
 I'm changing line 2 because this is the second time around. And with another change
 Another third line in conflict
 4 - This is a change for feature branch 4
@@ -11,3 +15,4 @@ fb5 - making a change
 fb5 - making a second change after pull request
 fb6 - trying to make a change after branch deleted on origin
 Another change after delete
+Making a change at the end of the file
