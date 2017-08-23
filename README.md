@@ -6,3 +6,6 @@ Another third line in conflict
 3 - Adding line to simulate a change
 6 - Leaving both 3 & 5 during a merge locally of my code to the master
 7 - Leaving all changes during a pull request on github
+
+fb5 - making a change
+fb5 - making a second change after pull request
