@@ -8,3 +8,4 @@ Another third line in conflict
 7 - Leaving all changes during a pull request on github
 
 fb5 - making a change
+fb5 - making a second change after pull request
