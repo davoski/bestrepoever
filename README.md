@@ -11,3 +11,4 @@ fb5 - making a change
 fb5 - making a second change after pull request
 fb6 - trying to make a change after branch deleted on origin
 Another change after delete
+Making a change at the end of the file
